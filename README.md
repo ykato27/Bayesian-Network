@@ -1,4 +1,4 @@
-# Bayesian_Network
+# Bayesian-Network
 * ベイジアンネットワークのプログラム
 
 ## リポジトリ構成
