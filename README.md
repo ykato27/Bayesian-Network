@@ -20,7 +20,7 @@ cd Desktop/Bayesian_Network
 
 * Dockerによる環境構築（フォルダをマウント：Desktop/Bayesian_Network）
 ```
-docker-compose up
+docker-compose up --build
 ```
 
 * ブラウザーを立ち上げてlocalhost:8888へアクセス
